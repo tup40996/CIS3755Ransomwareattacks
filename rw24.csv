@@ -1,0 +1,61 @@
+Date (MM/DD/YYYY),Entity Name,Latitude,Longitude,City,State,Sector,Demand,Currency,Demand in USD,Paid,Amount Paid
+01/04/2024,LoanDepot,33.6846,-117.8265,Irvine,CA,Financial Services/Mortgage,Unknown,Unknown,Unknown,Unknown,Unknown
+01/07/2024,Muscatine Power and Water,41.4245,-91.0432,Muscatine,IA,Government/Utilities,Unknown,Unknown,Unknown,False,null
+01/17/2024,Schneider Electric (US Operations),42.6584,-71.3673,Andover,MA,Technology/Energy Management,Unknown,Unknown,Unknown,False,null
+01/22/2024,Fulton County Government,33.7490,-84.3880,Atlanta,GA,Government,Unknown,Unknown,Unknown,False,null
+01/27/2024,Jackson County Government,39.0997,-94.5786,Kansas City,MO,Government,Unknown,Unknown,Unknown,True,Unknown
+01/31/2024,Lurie Children's Hospital,41.9234,-87.6742,Chicago,IL,Healthcare,60 BTC,Bitcoin,"$3,700,000",False,null
+02/05/2024,Prudential Financial,40.7489,-74.1724,Newark,NJ,Financial Services/Insurance,Unknown,Unknown,Unknown,False,null
+02/08/2024,Germantown City Government,35.0870,-89.8101,Germantown,TN,Government,Unknown,Unknown,Unknown,Unknown,Unknown
+02/08/2024,Nissan North America,36.0665,-86.4438,Franklin,TN,Automotive/Manufacturing,Unknown,Unknown,Unknown,False,null
+02/12/2024,Bank of America (via Infosys McCamish),35.2271,-80.8431,Charlotte,NC,Financial Services,Unknown,Unknown,Unknown,False,null
+02/14/2024,Skokie Village Government,42.0334,-87.7332,Skokie,IL,Government,Unknown,Unknown,Unknown,Unknown,Unknown
+02/21/2024,Change Healthcare,36.1627,-86.7816,Nashville,TN,Healthcare/Health IT,350 BTC,Bitcoin,"$22,000,000",True,"$22,000,000"
+02/26/2024,Integris Health (extortion phase),35.4676,-97.5164,Oklahoma City,OK,Healthcare,Unknown,Unknown,Unknown,False,null
+03/08/2024,Panera Bread,38.6270,-90.1994,St. Louis,MO,Food Service/Retail,Unknown,Unknown,Unknown,True,Unknown
+03/15/2024,Duvel Moortgat USA (Firestone Walker),35.3733,-119.0187,Paso Robles,CA,Food & Beverage/Manufacturing,Unknown,Unknown,Unknown,False,null
+03/18/2024,Omni Hotels & Resorts,32.7767,-96.7970,Dallas,TX,Hospitality,Unknown,Unknown,Unknown,False,null
+03/27/2024,AT&T (Snowflake breach),32.7767,-96.7970,Dallas,TX,Telecommunications,5.72 BTC,Bitcoin,"$373,000",True,"$373,000"
+04/02/2024,Hoya Corporation (US Operations),37.3382,-121.8863,San Jose,CA,Manufacturing/Optics,"$10,000,000",Bitcoin,"$10,000,000",False,null
+04/10/2024,Tipton Wastewater Treatment Plant,40.2836,-86.0422,Tipton,IN,Government/Critical Infrastructure,Unknown,Unknown,Unknown,False,null
+04/12/2024,City of Tarrant,33.5837,-86.7714,Tarrant,AL,Government,Unknown,Unknown,Unknown,False,null
+04/13/2024,Frontier Communications,32.7767,-96.7970,Dallas,TX,Telecommunications,Unknown,Unknown,Unknown,False,null
+04/27/2024,City of Wichita,37.6872,-97.3301,Wichita,KS,Government,Unknown,Unknown,Unknown,False,null
+05/06/2024,Keytronic Corporation,47.6793,-117.4044,Spokane,WA,Manufacturing/Electronics,Unknown,Unknown,Unknown,False,null
+05/08/2024,Ascension Health,38.6270,-90.1994,St. Louis,MO,Healthcare,Unknown,Unknown,Unknown,Unknown,Unknown
+05/15/2024,MedStar Health,39.2165,-76.8608,Columbia,MD,Healthcare,Unknown,Unknown,Unknown,False,null
+05/16/2024,Singing River Health System,30.3688,-88.5561,Pascagoula,MS,Healthcare,Unknown,Unknown,Unknown,False,null
+05/20/2024,Dropbox Sign,37.7749,-122.4194,San Francisco,CA,Technology/Cloud Services,Unknown,Unknown,Unknown,False,null
+05/23/2024,Ticketmaster / Live Nation (Snowflake),34.0195,-118.4912,Beverly Hills,CA,Entertainment/Ticketing,"$500,000",Unknown,"$500,000",False,null
+06/03/2024,Wayne Memorial Hospital,31.5655,-82.0115,Jesup,GA,Healthcare,Unknown,Unknown,Unknown,False,null
+06/10/2024,City of Cleveland,41.4993,-81.6944,Cleveland,OH,Government,Unknown,Unknown,Unknown,False,null
+06/18/2024,CDK Global,41.9028,-88.0434,Hoffman Estates,IL,Technology/Automotive Software,387 BTC,Bitcoin,"$25,000,000",True,"$25,000,000"
+06/20/2024,Advance Auto Parts (Snowflake),35.7796,-78.6382,Raleigh,NC,Retail/Automotive,Unknown,Unknown,Unknown,False,null
+07/04/2024,Patelco Credit Union,37.7023,-121.9358,Dublin,CA,Financial Services/Credit Union,Unknown,Unknown,Unknown,False,null
+07/08/2024,Rite Aid Corporation,39.9526,-75.1652,Philadelphia,PA,Retail/Pharmacy,Unknown,Unknown,Unknown,False,null
+07/11/2024,City of Columbus,39.9612,-82.9988,Columbus,OH,Government,Unknown,Unknown,Unknown,False,null
+07/17/2024,McLaren Health Care,42.9270,-83.6886,Grand Blanc,MI,Healthcare,Unknown,Unknown,Unknown,False,null
+07/22/2024,Los Angeles County Superior Court,34.0522,-118.2437,Los Angeles,CA,Government/Legal,Unknown,Unknown,Unknown,Unknown,Unknown
+07/22/2024,Columbus Regional Healthcare,34.9987,-79.9103,Whiteville,NC,Healthcare,Unknown,Unknown,Unknown,False,null
+08/24/2024,Port of Seattle / Sea-Tac Airport,47.4502,-122.3088,Seattle,WA,Government/Transportation,Unknown,Unknown,Unknown,False,null
+08/24/2024,Planned Parenthood of Montana,46.5958,-112.0270,Helena,MT,Healthcare,Unknown,Unknown,Unknown,False,null
+08/25/2024,NorthBay Vacaville Hospital,38.3566,-121.9877,Vacaville,CA,Healthcare,Unknown,Unknown,Unknown,Unknown,Unknown
+08/27/2024,Seattle Public Library,47.6062,-122.3321,Seattle,WA,Government/Education,Unknown,Unknown,Unknown,False,null
+09/06/2024,Kawasaki Motors USA,33.8669,-117.9981,Irvine,CA,Manufacturing/Automotive,Unknown,Unknown,Unknown,False,null
+09/09/2024,American Water Works,39.9208,-75.1185,Camden,NJ,Government/Utilities,Unknown,Unknown,Unknown,False,null
+09/18/2024,Arkansas Children's Hospital,34.7465,-92.3370,Little Rock,AR,Healthcare,Unknown,Unknown,Unknown,False,null
+09/22/2024,Arkansas City Water Treatment Plant,37.0618,-97.0376,Arkansas City,KS,Government/Critical Infrastructure,Unknown,Unknown,Unknown,False,null
+09/23/2024,Highline Public Schools,47.4266,-122.2820,Burien,WA,Education,Unknown,Unknown,Unknown,False,null
+09/26/2024,Comcast (via FBCS breach),39.9526,-75.1652,Philadelphia,PA,Telecommunications,Unknown,Unknown,Unknown,False,null
+10/02/2024,Casio Computer (US Operations),37.3382,-121.8863,San Jose,CA,Technology/Consumer Electronics,Unknown,Unknown,Unknown,False,null
+10/15/2024,Henry County Schools,33.4551,-84.2041,McDonough,GA,Education,Unknown,Unknown,Unknown,False,null
+10/20/2024,Kootenai Health,47.6740,-116.7800,Coeur d'Alene,ID,Healthcare,Unknown,Unknown,Unknown,False,null
+10/22/2024,OnePoint Patient Care,39.7392,-104.9903,Denver,CO,Healthcare/Hospice,Unknown,Unknown,Unknown,False,null
+11/02/2024,Memorial Hospital and Manor,30.8941,-84.5752,Bainbridge,GA,Healthcare,Unknown,Unknown,Unknown,Unknown,Unknown
+11/04/2024,Weiser Memorial Hospital,44.2524,-116.9718,Weiser,ID,Healthcare,Unknown,Unknown,Unknown,Unknown,Unknown
+11/21/2024,Blue Yonder (supply chain platform),33.4484,-111.9740,Scottsdale,AZ,Technology/Supply Chain Software,Unknown,Unknown,Unknown,Unknown,Unknown
+11/25/2024,Starbucks (Blue Yonder downstream),47.6062,-122.3321,Seattle,WA,Food Service/Retail,Unknown,Unknown,Unknown,False,null
+12/01/2024,Artivion Inc.,33.7490,-84.3880,Atlanta,GA,Healthcare/Medical Devices,Unknown,Unknown,Unknown,Unknown,Unknown
+12/09/2024,Texas Tech University Health Sciences,33.5779,-101.8552,Lubbock,TX,Education/Healthcare,Unknown,Unknown,Unknown,False,null
+12/20/2024,Rhode Island RIBridges,41.8240,-71.4128,Providence,RI,Government/Social Services,Unknown,Unknown,Unknown,False,null
+12/27/2024,Pittsburgh Regional Transit,40.4406,-79.9959,Pittsburgh,PA,Government/Transportation,Unknown,Unknown,Unknown,False,null
