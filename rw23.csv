@@ -1,0 +1,74 @@
+Date (MM/DD/YYYY),Entity Name,Latitude,Longitude,City,State,Sector,Demand,Currency,Demand in USD,Paid,Amount Paid
+01/10/2023,Atlantic General Hospital,38.3218,-75.2171,Berlin,MD,Healthcare,Unknown,Unknown,Unknown,False,null
+01/17/2023,Southeastern Louisiana University,30.3213,-90.2148,Hammond,LA,Education,Unknown,Unknown,Unknown,False,null
+01/18/2023,Yum! Brands (KFC/Pizza Hut/Taco Bell),38.2527,-85.7585,Louisville,KY,Food Service/Retail,Unknown,Unknown,Unknown,False,null
+01/18/2023,Swansea Public Schools,41.7510,-71.2200,Swansea,MA,Education,Unknown,Unknown,Unknown,False,null
+01/24/2023,Tucson Unified School District,32.2226,-110.9747,Tucson,AZ,Education,Unknown,Unknown,Unknown,False,null
+01/28/2023,NextGen Healthcare,33.7490,-84.3880,Atlanta,GA,Technology/Healthcare IT,Unknown,Unknown,Unknown,False,null
+01/31/2023,ION Cleared Derivatives,40.7128,-74.0060,New York,NY,Financial Services/Trading,Unknown,Unknown,Unknown,Unknown,Unknown
+02/01/2023,Dish Network,39.7392,-104.9903,Englewood,CO,Technology/Telecommunications,Unknown,Unknown,Unknown,True,Unknown
+02/01/2023,NationsBenefits Holdings,26.1224,-80.1373,Fort Lauderdale,FL,Healthcare/Benefits Management,Unknown,Unknown,Unknown,False,null
+02/05/2023,Tallahassee Memorial HealthCare,30.4383,-84.2807,Tallahassee,FL,Healthcare,Unknown,Unknown,Unknown,False,null
+02/06/2023,Lehigh Valley Health Network,40.6023,-75.4714,Allentown,PA,Healthcare,Unknown,Unknown,Unknown,False,null
+02/08/2023,City of Oakland,37.8044,-122.2712,Oakland,CA,Government,Unknown,Unknown,Unknown,False,null
+02/13/2023,Transformative Healthcare,42.3601,-71.0589,Framingham,MA,Healthcare,Unknown,Unknown,Unknown,False,null
+02/16/2023,Montgomery General Hospital,37.4082,-80.5607,Blacksburg,VA,Healthcare,"$750,000",Unknown,"$750,000",False,null
+02/21/2023,Minneapolis Public Schools,44.9778,-93.2650,Minneapolis,MN,Education,"$1,000,000",Unknown,"$1,000,000",False,null
+02/23/2023,US Marshals Service,38.8951,-77.0364,Washington,DC,Government/Law Enforcement,Unknown,Unknown,Unknown,False,null
+02/26/2023,MCNA Dental,33.7490,-84.3880,Atlanta,GA,Healthcare/Dental Insurance,"$10,000,000",Unknown,"$10,000,000",False,null
+02/28/2023,City of Modesto,37.6391,-120.9969,Modesto,CA,Government,Unknown,Unknown,Unknown,False,null
+03/01/2023,Hatch Bank,37.3382,-121.8863,San Jose,CA,Financial Services/Fintech,Unknown,Unknown,Unknown,False,null
+03/05/2023,Lumen Technologies,32.5186,-92.1193,Monroe,LA,Technology/Telecommunications,Unknown,Unknown,Unknown,False,null
+03/10/2023,Jefferson County Schools,39.7392,-104.9903,Golden,CO,Education,Unknown,Unknown,Unknown,False,null
+03/12/2023,PharMerica,38.1785,-85.6813,Louisville,KY,Healthcare/Pharmacy,Unknown,Unknown,Unknown,False,null
+03/21/2023,Penncrest School District,41.3828,-80.3626,Saegertown,PA,Education,Unknown,Unknown,Unknown,False,null
+03/26/2023,Western Digital,37.3382,-121.8863,San Jose,CA,Technology/Data Storage,Unknown,Unknown,Unknown,False,null
+03/31/2023,Wawasee Community School Corporation,41.4336,-85.7280,Syracuse,IN,Education,Unknown,Unknown,Unknown,False,null
+04/01/2023,San Bernardino County Sheriff's Dept,34.1083,-117.2898,San Bernardino,CA,Government/Law Enforcement,Unknown,Unknown,Unknown,True,"$1,100,000"
+04/05/2023,NCR Corporation (Aloha POS),33.7490,-84.3880,Atlanta,GA,Technology/Payments,Unknown,Unknown,Unknown,Unknown,Unknown
+04/14/2023,Uniondale Union Free School District,40.7005,-73.5924,Uniondale,NY,Education,"$1,000,000",Unknown,"$1,000,000",False,null
+04/17/2023,City of Augusta,33.4735,-82.0105,Augusta,GA,Government,Unknown,Unknown,Unknown,False,null
+04/21/2023,Stanford University,37.4275,-122.1697,Palo Alto,CA,Education,Unknown,Unknown,Unknown,False,null
+04/24/2023,Yellow Pages / Hibu,40.7128,-74.0060,New York,NY,Media/Publishing,Unknown,Unknown,Unknown,False,null
+04/24/2023,Danbury Public Schools,41.3948,-73.4540,Danbury,CT,Education,Unknown,Unknown,Unknown,False,null
+05/03/2023,City of Dallas,32.7767,-96.7970,Dallas,TX,Government,Unknown,Unknown,Unknown,False,null
+05/10/2023,Harvard Pilgrim Health Care,42.2529,-71.0023,Canton,MA,Healthcare/Insurance,Unknown,Unknown,Unknown,False,null
+05/12/2023,Dragos Inc.,39.0917,-76.7497,Hanover,MD,Technology/Cybersecurity,Unknown,Unknown,Unknown,False,null
+05/15/2023,City of Lowell,42.6334,-71.3162,Lowell,MA,Government,Unknown,Unknown,Unknown,Unknown,Unknown
+05/22/2023,Southern Arkansas University,33.6025,-93.0925,Magnolia,AR,Education,Unknown,Unknown,Unknown,False,null
+05/27/2023,Progress Software / MOVEit,42.4073,-71.0603,Burlington,MA,Technology/Software,Unknown,Unknown,Unknown,False,null
+05/31/2023,New York City Department of Education,40.7128,-74.0060,New York,NY,Education,Unknown,Unknown,Unknown,False,null
+06/01/2023,Johns Hopkins University & Medicine,39.2904,-76.6122,Baltimore,MD,Education/Healthcare,Unknown,Unknown,Unknown,False,null
+06/06/2023,University of Georgia,33.9480,-83.3774,Athens,GA,Education,Unknown,Unknown,Unknown,False,null
+06/12/2023,Hawaiian Community College,19.7074,-155.0847,Hilo,HI,Education,Unknown,Unknown,Unknown,True,Unknown
+06/14/2023,Maximus Inc.,38.9605,-77.3561,Reston,VA,Government Services/Technology,Unknown,Unknown,Unknown,False,null
+06/15/2023,Genworth Financial,37.5407,-77.4360,Richmond,VA,Financial Services/Insurance,Unknown,Unknown,Unknown,False,null
+06/20/2023,American Airlines (MOVEit),32.8998,-97.0403,Fort Worth,TX,Transportation/Aviation,Unknown,Unknown,Unknown,False,null
+06/21/2023,Illinois Dept of Innovation & Technology,39.7980,-89.6540,Springfield,IL,Government,Unknown,Unknown,Unknown,False,null
+06/25/2023,US Department of Energy (MOVEit),38.8951,-77.0364,Washington,DC,Government/Energy,Unknown,Unknown,Unknown,False,null
+06/27/2023,Casepoint,38.9094,-77.2405,Tysons,VA,Technology/Legal Services,Unknown,Unknown,Unknown,Unknown,Unknown
+07/05/2023,State of Maine (MOVEit),44.3106,-69.7795,Augusta,ME,Government,Unknown,Unknown,Unknown,False,null
+07/10/2023,HCA Healthcare,36.1627,-86.7816,Nashville,TN,Healthcare,Unknown,Unknown,Unknown,False,null
+07/22/2023,Prospect Medical Holdings,33.9425,-118.4081,Los Angeles,CA,Healthcare,Unknown,Unknown,Unknown,False,null
+08/08/2023,Clorox Company,37.8044,-122.2712,Oakland,CA,Manufacturing/Consumer Goods,Unknown,Unknown,Unknown,False,null
+08/10/2023,University of Michigan,42.2808,-83.7430,Ann Arbor,MI,Education,Unknown,Unknown,Unknown,False,null
+08/25/2023,Mom's Meals (PurFoods LLC),41.5868,-93.6250,Des Moines,IA,Healthcare/Food Services,Unknown,Unknown,Unknown,False,null
+09/07/2023,Caesars Entertainment,36.1147,-115.1728,Las Vegas,NV,Hospitality/Gaming,"$30,000,000",Unknown,"$30,000,000",True,"$15,000,000"
+09/11/2023,MGM Resorts International,36.1147,-115.1728,Las Vegas,NV,Hospitality/Gaming,Unknown,Unknown,Unknown,False,null
+09/18/2023,Merced City School District,37.3022,-120.4830,Merced,CA,Education,Unknown,Unknown,Unknown,False,null
+09/27/2023,Johnson Controls International,43.0389,-87.9065,Milwaukee,WI,Manufacturing/Building Tech,"$51,000,000",Unknown,"$51,000,000",Unknown,Unknown
+09/28/2023,ESO Solutions Inc.,30.2672,-97.7431,Austin,TX,Technology/Healthcare IT,Unknown,Unknown,Unknown,Unknown,Unknown
+10/01/2023,McLaren Health Care,42.9270,-83.6886,Grand Blanc,MI,Healthcare,Unknown,Unknown,Unknown,False,null
+10/14/2023,Henry Schein Inc.,40.7900,-73.5340,Melville,NY,Healthcare/Medical Supply,Unknown,Unknown,Unknown,Unknown,Unknown
+10/22/2023,CDW Corporation,42.2259,-87.9401,Vernon Hills,IL,Technology/IT Products,"$80,000,000",Unknown,"$80,000,000",False,null
+10/27/2023,Boeing,47.4442,-122.3016,Arlington,VA,Manufacturing/Aerospace,Unknown,Unknown,Unknown,False,null
+11/01/2023,Mr. Cooper Group,32.9546,-97.0641,Coppell,TX,Financial Services/Mortgage,Unknown,Unknown,Unknown,False,null
+11/13/2023,Ardent Health Services,36.0154,-86.6816,Brentwood,TN,Healthcare,Unknown,Unknown,Unknown,False,null
+11/19/2023,Fred Hutchinson Cancer Center,47.6097,-122.3331,Seattle,WA,Healthcare,Unknown,Unknown,Unknown,False,null
+11/22/2023,Henry Schein Inc. (2nd attack),40.7900,-73.5340,Melville,NY,Healthcare/Medical Supply,Unknown,Unknown,Unknown,Unknown,Unknown
+11/27/2023,Fidelity National Financial,30.3322,-81.6557,Jacksonville,FL,Financial Services/Real Estate,Unknown,Unknown,Unknown,Unknown,Unknown
+11/28/2023,North Texas Municipal Water District,33.1584,-96.8172,Wylie,TX,Government/Critical Infrastructure,Unknown,Unknown,Unknown,False,null
+11/28/2023,Integris Health,35.4676,-97.5164,Oklahoma City,OK,Healthcare,Unknown,Unknown,Unknown,False,null
+12/13/2023,VF Corporation,39.7392,-104.9903,Denver,CO,Retail/Manufacturing,Unknown,Unknown,Unknown,Unknown,Unknown
+12/19/2023,Liberty Hospital,39.2453,-94.4192,Liberty,MO,Healthcare,Unknown,Unknown,Unknown,Unknown,Unknown
+12/24/2023,Anna Jaques Hospital,42.7557,-70.8673,Newburyport,MA,Healthcare,Unknown,Unknown,Unknown,False,null
