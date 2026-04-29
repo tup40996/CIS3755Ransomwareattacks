@@ -1,0 +1,98 @@
+Date (MM/DD/YYYY),Entity Name,Latitude,Longitude,City,State,Sector,Demand,Currency,Demand in USD,Paid,Amount Paid
+01/07/2020,Communications & Power Industries (CPI),37.4419,-122.1430,Palo Alto,CA,Defense/Manufacturing,Unknown,Bitcoin,Unknown,True,"$500,000"
+01/09/2020,Richmond Community Schools,42.8084,-82.7574,Richmond,MI,Education,"$10,000",Bitcoin,"$10,000",False,null
+01/10/2020,Pittsburg Unified School District,37.9483,-121.8844,Pittsburg,CA,Education,Unknown,Unknown,Unknown,False,null
+01/17/2020,Town of Colonie,42.7173,-73.8237,Colonie,NY,Government,"$400,000",Bitcoin,"$400,000",False,null
+01/17/2020,Electronic Warfare Associates (EWA),38.9585,-77.3583,Herndon,VA,Defense/Technology,Unknown,Unknown,Unknown,False,null
+01/18/2020,Panama-Buena Vista School District,35.3733,-119.0187,Bakersfield,CA,Education,Unknown,Unknown,Unknown,False,null
+01/22/2020,Tillamook County Government,45.4554,-123.8457,Tillamook,OR,Government,Unknown,Unknown,Unknown,True,"$300,000"
+02/03/2020,ITI Technical College,30.4515,-91.1871,Baton Rouge,LA,Education,Unknown,Unknown,Unknown,False,null
+02/11/2020,North Miami Beach Police Department,25.9331,-80.1739,North Miami Beach,FL,Government/Law Enforcement,Unknown,Unknown,Unknown,False,null
+02/13/2020,Nacogdoches Independent School District,31.6035,-94.6552,Nacogdoches,TX,Education,Unknown,Unknown,Unknown,False,null
+02/25/2020,Gadsden Independent School District,31.9690,-106.5861,Anthony,NM,Education,Unknown,Unknown,Unknown,False,null
+02/27/2020,Jordan Health,43.1566,-77.6088,Rochester,NY,Healthcare,Unknown,Unknown,Unknown,False,null
+02/29/2020,Epiq Global,38.8827,-94.6572,Kansas City,MO,Legal Services,Unknown,Unknown,Unknown,False,null
+03/02/2020,La Salle County Government,41.3228,-88.8412,Ottawa,IL,Government,Unknown,Unknown,Unknown,False,null
+03/05/2020,Visser Precision Manufacturing,39.7392,-104.9903,Denver,CO,Manufacturing,Unknown,Unknown,Unknown,False,null
+03/09/2020,Durham City & County Government,35.9940,-78.8986,Durham,NC,Government,Unknown,Unknown,Unknown,False,null
+03/10/2020,Champaign-Urbana Public Health District,40.1106,-88.2073,Champaign,IL,Government/Healthcare,Unknown,Unknown,Unknown,False,null
+03/12/2020,Finastra,40.7589,-73.9851,New York,NY,Financial Technology,Unknown,Unknown,Unknown,False,null
+03/25/2020,Bluffton Township Fire District,32.2371,-80.8604,Bluffton,SC,Government/Emergency Services,Unknown,Unknown,Unknown,False,null
+04/11/2020,Magellan Health,33.4255,-111.9400,Scottsdale,AZ,Healthcare,Unknown,Unknown,Unknown,False,null
+04/11/2020,Boyce Technologies,40.7448,-73.9463,Long Island City,NY,Manufacturing/Medical Devices,Unknown,Unknown,Unknown,False,null
+04/14/2020,Threadstone Advisors,40.7580,-73.9855,New York,NY,Financial Services/M&A,Unknown,Unknown,Unknown,False,null
+04/18/2020,City of Olean,42.0773,-78.4297,Olean,NY,Government,Unknown,Unknown,Unknown,False,null
+04/20/2020,Cognizant Technology Solutions,40.8948,-74.0268,Teaneck,NJ,Technology/IT Services,Unknown,Unknown,Unknown,False,null
+04/21/2020,Parkview Medical Center,38.2544,-104.6091,Pueblo,CO,Healthcare,Unknown,Unknown,Unknown,False,null
+04/25/2020,Diebold Nixdorf,40.8756,-81.4104,North Canton,OH,Financial Technology,Unknown,Unknown,Unknown,False,null
+04/26/2020,City of Torrance,33.8358,-118.3406,Torrance,CA,Government,100 BTC,Bitcoin,"$689,147",False,null
+04/26/2020,CivicSmart,43.0389,-87.9065,Milwaukee,WI,Technology/Government Services,Unknown,Unknown,Unknown,False,null
+04/27/2020,ExecuPharm,40.2732,-75.4324,Lansdale,PA,Pharmaceutical,Unknown,Unknown,Unknown,False,null
+05/06/2020,Blackbaud,34.0007,-81.0348,Columbia,SC,Technology/Nonprofit SaaS,Unknown,Bitcoin,Unknown,True,Unknown
+05/08/2020,Grubman Shire Meiselas & Sacks,40.7580,-73.9855,New York,NY,Legal Services,"$21,000,000",Unknown,"$21,000,000",False,null
+05/12/2020,Texas Department of Transportation,30.2672,-97.7431,Austin,TX,Government/Transportation,Unknown,Unknown,Unknown,False,null
+05/13/2020,Pitney Bowes,41.0534,-73.5387,Stamford,CT,Technology/Logistics,Unknown,Unknown,Unknown,False,null
+05/18/2020,Michigan State University,42.7018,-84.4822,East Lansing,MI,Education,Unknown,Unknown,Unknown,False,null
+05/18/2020,Texas Office of Court Administration,30.2672,-97.7431,Austin,TX,Government/Legal,Unknown,Unknown,Unknown,False,null
+05/26/2020,Fresenius SE (US Operations),42.3751,-71.1056,Waltham,MA,Healthcare,Unknown,Unknown,Unknown,False,null
+06/01/2020,UC San Francisco (UCSF),37.7632,-122.4581,San Francisco,CA,Education/Healthcare,"$3,000,000",Bitcoin,"$3,000,000",True,"$1,140,000"
+06/05/2020,City of Florence,34.7990,-87.6772,Florence,AL,Government,39 BTC,Bitcoin,"$378,000",True,"$291,000"
+06/10/2020,City of Keizer,44.9901,-123.0151,Keizer,OR,Government,"$48,000",Unknown,"$48,000",True,"$48,000"
+06/11/2020,City of Knoxville,35.9606,-83.9207,Knoxville,TN,Government,Unknown,Unknown,Unknown,False,null
+06/15/2020,University of Utah,40.7649,-111.8421,Salt Lake City,UT,Education,"$457,059",Bitcoin,"$457,059",True,"$457,059"
+06/15/2020,Digital Management Inc. (DMI),39.0840,-77.1528,Rockville,MD,Technology/Government Contractor,Unknown,Unknown,Unknown,False,null
+07/01/2020,Beaumont Health,42.4734,-83.1454,Southfield,MI,Healthcare,Unknown,Unknown,Unknown,False,null
+07/09/2020,Orange S.A. (US Business Division),40.7580,-73.9855,New York,NY,Telecommunications,Unknown,Unknown,Unknown,False,null
+07/22/2020,Garmin,38.8814,-94.6832,Olathe,KS,Technology/Consumer Electronics,"$10,000,000",Unknown,"$10,000,000",True,Unknown
+07/23/2020,Tyler Technologies,33.0198,-96.6989,Plano,TX,Technology/Government Software,Unknown,Unknown,Unknown,False,null
+07/27/2020,City of Lafayette,39.9936,-105.0897,Lafayette,CO,Government,"$45,000",Unknown,"$45,000",True,"$45,000"
+07/27/2020,CWT Global (Carlson Wagonlit Travel),44.9778,-93.2650,Minneapolis,MN,Travel/Hospitality,"$10,000,000",Bitcoin,"$10,000,000",True,"$4,500,000"
+07/30/2020,Canon USA,40.7580,-73.9855,New York,NY,Technology/Manufacturing,Unknown,Unknown,Unknown,False,null
+08/03/2020,Athens Independent School District,32.2043,-95.8511,Athens,TX,Education,"$50,000",Unknown,"$50,000",False,null
+08/05/2020,Employers Holdings Inc.,39.5296,-119.8138,Reno,NV,Insurance,Unknown,Unknown,Unknown,False,null
+08/05/2020,Haywood County Schools,35.5743,-82.9549,Waynesville,NC,Education,Unknown,Unknown,Unknown,False,null
+08/10/2020,SANS Institute,38.9897,-77.0279,Bethesda,MD,Education/Cybersecurity,Unknown,Unknown,Unknown,False,null
+08/13/2020,Carnival Corporation,25.7617,-80.1918,Miami,FL,Travel/Hospitality,Unknown,Unknown,Unknown,Unknown,Unknown
+08/18/2020,IPG Photonics,42.1200,-71.8661,Oxford,MA,Manufacturing/Technology,Unknown,Unknown,Unknown,False,null
+08/27/2020,Clark County School District,36.1716,-115.1391,Las Vegas,NV,Education,Unknown,Unknown,Unknown,False,null
+09/08/2020,Hartford Public Schools,41.7658,-72.6851,Hartford,CT,Education,Unknown,Unknown,Unknown,False,null
+09/09/2020,Galstan & Ward Family Dentistry,33.7490,-84.3880,Atlanta,GA,Healthcare/Dental,Unknown,Unknown,Unknown,False,null
+09/10/2020,University Hospital New Jersey (UHNJ),40.7357,-74.1724,Newark,NJ,Healthcare,"$1,700,000",Bitcoin,"$1,700,000",Unknown,Unknown
+09/11/2020,Fairfax County Public Schools,38.8462,-77.3064,Fairfax,VA,Education,Unknown,Unknown,Unknown,False,null
+09/14/2020,Newhall School District,34.3917,-118.5426,Valencia,CA,Education,Unknown,Unknown,Unknown,False,null
+09/14/2020,Toledo Public Schools,41.6528,-83.5379,Toledo,OH,Education,Unknown,Unknown,Unknown,False,null
+09/20/2020,Managed.com,33.4484,-112.0740,Phoenix,AZ,Technology/Web Hosting,Unknown,Unknown,Unknown,False,null
+09/22/2020,St. Lawrence Health System,44.6978,-75.0044,Potsdam,NY,Healthcare,Unknown,Unknown,Unknown,False,null
+09/27/2020,Universal Health Services (UHS),40.0855,-75.3824,King of Prussia,PA,Healthcare,Unknown,Unknown,Unknown,False,null
+09/28/2020,Ashtabula County Medical Center,41.8650,-80.7890,Ashtabula,OH,Healthcare,Unknown,Unknown,Unknown,False,null
+10/01/2020,Sonoma Valley Hospital,38.2919,-122.4580,Sonoma,CA,Healthcare,Unknown,Unknown,Unknown,False,null
+10/03/2020,Software AG (US Operations),38.9072,-77.0369,Washington,DC,Technology/Enterprise Software,"$23,000,000",Bitcoin,"$23,000,000",False,null
+10/10/2020,Hall County Government,34.3165,-83.8166,Gainesville,GA,Government,Unknown,Unknown,Unknown,False,null
+10/10/2020,Seyfarth Shaw LLP,41.8827,-87.6233,Chicago,IL,Legal Services,Unknown,Unknown,Unknown,False,null
+10/14/2020,Barnes & Noble,40.7365,-74.0007,New York,NY,Retail,Unknown,Unknown,Unknown,False,null
+10/15/2020,Hendrick Health,32.4487,-99.7331,Abilene,TX,Healthcare,Unknown,Unknown,Unknown,False,null
+10/15/2020,Enel Group (US Operations),37.3382,-121.8863,San Jose,CA,Energy,"$14,000,000",Unknown,"$14,000,000",False,null
+10/20/2020,Sopra Steria (US Operations),38.8951,-77.0364,Washington,DC,Technology/IT Services,Unknown,Unknown,Unknown,False,null
+10/22/2020,Nebraska Medicine,41.2565,-96.0098,Omaha,NE,Healthcare,Unknown,Unknown,Unknown,False,null
+10/27/2020,Sky Lakes Medical Center,42.2249,-121.7817,Klamath Falls,OR,Healthcare,Unknown,Unknown,Unknown,False,null
+10/28/2020,Wyckoff Heights Medical Center,40.7062,-73.9199,Brooklyn,NY,Healthcare,Unknown,Unknown,Unknown,False,null
+10/28/2020,University of Vermont Health Network,44.4759,-73.2121,Burlington,VT,Healthcare,Unknown,Unknown,Unknown,False,null
+10/28/2020,St. Lawrence Health System,44.6978,-75.0044,Potsdam,NY,Healthcare,Unknown,Unknown,Unknown,False,null
+10/29/2020,Americold Realty Trust,33.7490,-84.3880,Atlanta,GA,Logistics/Cold Storage,Unknown,Unknown,Unknown,False,null
+10/30/2020,Steelcase Inc.,42.9634,-85.6681,Grand Rapids,MI,Manufacturing,Unknown,Unknown,Unknown,False,null
+11/04/2020,Netgain Technologies,45.5579,-94.1632,St. Cloud,MN,Technology/IT Services,Unknown,Unknown,Unknown,True,Unknown
+11/16/2020,K12 Inc. (Stride Inc.),38.9897,-77.4441,Herndon,VA,Education,Unknown,Unknown,Unknown,True,Unknown
+11/17/2020,Capcom USA,37.3382,-121.8863,San Jose,CA,Gaming/Technology,"$11,000,000",Unknown,"$11,000,000",False,null
+11/20/2020,Rand McNally,41.8827,-87.6233,Chicago,IL,Technology/Transportation,Unknown,Unknown,Unknown,False,null
+11/24/2020,Baltimore County Public Schools,39.4143,-76.6413,Towson,MD,Education,Unknown,Unknown,Unknown,False,null
+11/27/2020,Delaware County Government,39.9176,-75.3587,Media,PA,Government,"$500,000",Unknown,"$500,000",True,"$500,000"
+12/01/2020,Huntsville City Schools,34.7304,-86.5861,Huntsville,AL,Education,Unknown,Unknown,Unknown,False,null
+12/05/2020,Foxconn North America,31.7619,-106.4850,El Paso,TX,Manufacturing/Technology,"$34,686,000",Bitcoin,"$34,686,000",Unknown,Unknown
+12/06/2020,GBMC HealthCare,39.4143,-76.6413,Towson,MD,Healthcare,Unknown,Unknown,Unknown,False,null
+12/07/2020,Kmart / Transformco,41.9028,-88.0434,Hoffman Estates,IL,Retail,Unknown,Unknown,Unknown,False,null
+12/10/2020,Adena Health System,39.3326,-82.9824,Chillicothe,OH,Healthcare,Unknown,Unknown,Unknown,False,null
+12/10/2020,Croton-Harmon School District,41.2034,-73.8913,Croton-on-Hudson,NY,Education,Unknown,Unknown,Unknown,False,null
+12/14/2020,Apex Laboratory,40.7628,-73.4076,Melville,NY,Healthcare,Unknown,Unknown,Unknown,False,null
+12/20/2020,Lehigh Valley Library System,40.6023,-75.4714,Allentown,PA,Education/Government,Unknown,Unknown,Unknown,False,null
+12/21/2020,City of Independence,39.0911,-94.4155,Independence,MO,Government,Unknown,Unknown,Unknown,False,null
+12/26/2020,Yorktown Central School District,41.2948,-73.7996,Yorktown Heights,NY,Education,Unknown,Unknown,Unknown,False,null
