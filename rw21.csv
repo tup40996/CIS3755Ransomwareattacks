@@ -1,0 +1,70 @@
+Date (MM/DD/YYYY),Entity Name,Latitude,Longitude,City,State,Sector,Demand,Currency,Demand in USD,Paid,Amount Paid
+01/06/2021,Victor Central School District,42.9870,-77.4097,Victor,NY,Education,Unknown,Unknown,Unknown,False,null
+01/08/2021,Leon Medical Centers,25.8576,-80.2781,Hialeah,FL,Healthcare,Unknown,Unknown,Unknown,Unknown,Unknown
+01/15/2021,Automatic Funds Transfer Services (AFTS),47.6062,-122.3321,Seattle,WA,Financial Technology/Government Services,Unknown,Unknown,Unknown,False,null
+01/20/2021,Broward Health,26.1224,-80.1373,Fort Lauderdale,FL,Healthcare,Unknown,Unknown,Unknown,False,null
+01/21/2021,Rehoboth McKinley Christian Health Care,35.5281,-108.7426,Gallup,NM,Healthcare,Unknown,Unknown,Unknown,Unknown,Unknown
+01/26/2021,PracticeFirst Medical Management Solutions,42.8864,-78.8784,Buffalo,NY,Healthcare/Medical Management,Unknown,Unknown,Unknown,Unknown,Unknown
+02/08/2021,Advanced Urgent Care of Florida,25.7617,-80.1918,Miami,FL,Healthcare,Unknown,Unknown,Unknown,Unknown,Unknown
+02/08/2021,Yuba City Unified School District,39.1404,-121.6169,Yuba City,CA,Education,Unknown,Unknown,Unknown,False,null
+02/13/2021,Kia Motors America,33.6846,-117.8265,Irvine,CA,Automotive,404 BTC,Bitcoin,"$20,000,000",Unknown,Unknown
+02/16/2021,Sierra Wireless,47.6062,-122.3321,Seattle,WA,Technology/IoT Manufacturing,Unknown,Unknown,Unknown,False,null
+02/22/2021,Pima Community College,32.2226,-110.9747,Tucson,AZ,Education,Unknown,Unknown,Unknown,False,null
+02/25/2021,Steamfitters Local 420,39.9526,-75.1652,Philadelphia,PA,Labor/Government,Unknown,Unknown,Unknown,False,null
+03/02/2021,CompuCom,32.7767,-96.7970,Dallas,TX,Technology/IT Services,Unknown,Unknown,Unknown,False,null
+03/04/2021,Acer Inc. (US Operations),37.3382,-121.8863,San Jose,CA,Technology/Manufacturing,"$50,000,000",Monero,"$50,000,000",Unknown,Unknown
+03/07/2021,Hillsborough County Public Schools,27.9506,-82.4572,Tampa,FL,Education,Unknown,Unknown,Unknown,False,null
+03/15/2021,Gulf Coast Regional Blood Center,29.7041,-95.4085,Houston,TX,Healthcare,Unknown,Unknown,Unknown,False,null
+03/17/2021,Berkshire Hills Bancorp,42.1015,-73.9496,Pittsfield,MA,Financial Services,Unknown,Unknown,Unknown,False,null
+03/21/2021,CNA Financial Corporation,41.8827,-87.6233,Chicago,IL,Insurance,"$60,000,000",Unknown,"$60,000,000",True,"$40,000,000"
+03/27/2021,Sierra Pacific Industries,40.5865,-122.3917,Anderson,CA,Manufacturing/Lumber,Unknown,Unknown,Unknown,False,null
+04/09/2021,Quanta Computer (Apple supplier),37.3861,-122.0839,Cupertino,CA,Technology/Manufacturing,"$50,000,000",Unknown,"$50,000,000",False,null
+04/14/2021,Houston Rockets (NBA),29.7490,-95.3677,Houston,TX,Sports/Entertainment,Unknown,Unknown,Unknown,False,null
+04/19/2021,Broward County Public Schools,26.1224,-80.1373,Fort Lauderdale,FL,Education,"$40,000,000",Bitcoin,"$40,000,000",False,null
+04/22/2021,Brenntag North America,30.3505,-97.7401,Austin,TX,Chemical Distribution,"$7,500,000",Bitcoin,"$7,500,000",True,"$4,400,000"
+04/26/2021,DC Metropolitan Police Department,38.8951,-77.0364,Washington,DC,Government/Law Enforcement,"$4,000,000",Unknown,"$4,000,000",False,null
+05/01/2021,Scripps Health,32.7157,-117.1611,San Diego,CA,Healthcare,Unknown,Unknown,Unknown,False,null
+05/07/2021,Colonial Pipeline,34.0754,-84.2941,Alpharetta,GA,Energy/Critical Infrastructure,75 BTC,Bitcoin,"$4,400,000",True,"$4,400,000"
+05/07/2021,Steamship Authority of Massachusetts,41.5230,-70.6673,Woods Hole,MA,Transportation/Maritime,Unknown,Unknown,Unknown,False,null
+05/09/2021,ExaGrid,42.3459,-71.5523,Marlborough,MA,Technology/Data Storage,"$2,500,000",Bitcoin,"$2,500,000",True,"$2,600,000"
+05/14/2021,University of Florida Health,29.6516,-82.3490,Gainesville,FL,Healthcare/Education,Unknown,Unknown,Unknown,False,null
+05/27/2021,JBS USA Holdings,40.4233,-104.7091,Greeley,CO,Food Processing/Agriculture,"$22,500,000",Bitcoin,"$22,500,000",True,"$11,000,000"
+05/31/2021,Fujifilm (US Operations),40.7128,-74.0060,New York,NY,Technology/Manufacturing,Unknown,Unknown,Unknown,False,null
+06/01/2021,St. Clair County Government,42.8084,-82.4879,Port Huron,MI,Government,Unknown,Unknown,Unknown,False,null
+06/02/2021,US Foods,41.9706,-87.8631,Rosemont,IL,Food Distribution,Unknown,Unknown,Unknown,False,null
+06/03/2021,Vermont Agency of Transportation,44.2601,-72.5754,Montpelier,VT,Government/Transportation,Unknown,Unknown,Unknown,False,null
+06/08/2021,Bose Corporation,42.2793,-71.4162,Framingham,MA,Technology/Consumer Electronics,Unknown,Unknown,Unknown,False,null
+06/11/2021,Saint Joseph's/Candler Health System,32.0809,-81.0912,Savannah,GA,Healthcare,Unknown,Unknown,Unknown,False,null
+06/11/2021,Forefront Dermatology,44.5192,-88.0198,Green Bay,WI,Healthcare,Unknown,Unknown,Unknown,False,null
+06/14/2021,Rockwood School District,38.5219,-90.5271,Eureka,MO,Education,Unknown,Unknown,Unknown,False,null
+06/17/2021,Judson Independent School District,29.5869,-98.3219,San Antonio,TX,Education,Unknown,Bitcoin,Unknown,True,"$547,045"
+06/27/2021,Coos County Family Health Services,44.4673,-71.5572,Berlin,NH,Healthcare,Unknown,Unknown,Unknown,False,null
+06/28/2021,Wolfe Eye Clinic,41.9779,-91.6656,Cedar Rapids,IA,Healthcare,Unknown,Unknown,Unknown,False,null
+07/02/2021,Kaseya VSA,25.7617,-80.1918,Miami,FL,Technology/IT Services,"$70,000,000",Bitcoin,"$70,000,000",False,null
+07/04/2021,Famous Smoke Shop,40.6884,-75.2207,Easton,PA,Retail,Unknown,Unknown,Unknown,False,null
+07/04/2021,Morgan County Schools,36.1343,-84.7963,Wartburg,TN,Education,Unknown,Unknown,Unknown,False,null
+07/12/2021,DuPage Medical Group,41.8120,-88.1070,Downers Grove,IL,Healthcare,Unknown,Unknown,Unknown,False,null
+07/17/2021,Directions for Living,27.9659,-82.7951,Clearwater,FL,Healthcare/Behavioral Health,Unknown,Unknown,Unknown,False,null
+07/19/2021,Revere Health,40.2338,-111.6585,Provo,UT,Healthcare,Unknown,Unknown,Unknown,False,null
+07/26/2021,Memorial Health System,38.9048,-82.0021,Marietta,OH,Healthcare,Unknown,Unknown,Unknown,False,null
+08/04/2021,Eskenazi Health,39.7684,-86.1581,Indianapolis,IN,Healthcare,Unknown,Unknown,Unknown,False,null
+08/04/2021,Sanford Health,43.5460,-96.7313,Sioux Falls,SD,Healthcare,Unknown,Unknown,Unknown,False,null
+08/15/2021,Accenture,40.7128,-74.0060,New York,NY,Technology/Consulting,"$50,000,000",Unknown,"$50,000,000",False,null
+08/21/2021,Invenergy LLC,41.8827,-87.6233,Chicago,IL,Energy/Renewable,Unknown,Unknown,Unknown,False,null
+08/28/2021,Marymount Manhattan College,40.7736,-73.9566,New York,NY,Education,Unknown,Unknown,Unknown,False,null
+09/01/2021,Howard University,38.9218,-77.0177,Washington,DC,Education,Unknown,Unknown,Unknown,False,null
+09/09/2021,NEW Cooperative Inc.,42.4975,-94.1680,Fort Dodge,IA,Agriculture,"$5,900,000",Unknown,"$5,900,000",False,null
+09/12/2021,TTEC Holdings,39.6469,-104.9876,Englewood,CO,Technology/Customer Service,Unknown,Unknown,Unknown,Unknown,Unknown
+09/12/2021,Crystal Valley Cooperative,44.1636,-93.9994,Mankato,MN,Agriculture,Unknown,Unknown,Unknown,False,null
+09/17/2021,Pottawatomie County Government,39.3942,-96.3453,Westmoreland,KS,Government,Unknown,Unknown,Unknown,True,Unknown
+09/20/2021,Sandhills Publishing,41.4292,-97.3687,Columbus,NE,Media/Publishing,Unknown,Unknown,Unknown,False,null
+09/23/2021,Medsurant Health,40.8459,-74.4201,Parsippany,NJ,Healthcare,Unknown,Unknown,Unknown,False,null
+10/10/2021,Olympus Americas,40.5185,-75.3766,Center Valley,PA,Technology/Medical Devices,Unknown,Unknown,Unknown,False,null
+10/15/2021,Broward Health,26.1224,-80.1373,Fort Lauderdale,FL,Healthcare,Unknown,Unknown,Unknown,False,null
+10/16/2021,Sinclair Broadcast Group,39.4903,-76.6063,Hunt Valley,MD,Media/Broadcasting,Unknown,Unknown,Unknown,Unknown,Unknown
+10/21/2021,Bandwidth Inc.,35.7796,-78.6382,Raleigh,NC,Technology/Telecommunications,Unknown,Unknown,Unknown,False,null
+10/22/2021,Marketron,43.6150,-116.2023,Boise,ID,Technology/Media Services,Unknown,Unknown,Unknown,False,null
+10/25/2021,Align Technology,33.4255,-111.9400,Tempe,AZ,Healthcare/Medical Devices,Unknown,Unknown,Unknown,False,null
+11/15/2021,Planned Parenthood Los Angeles,34.0522,-118.2437,Los Angeles,CA,Healthcare,Unknown,Unknown,Unknown,False,null
+12/11/2021,Ultimate Kronos Group (UKG),42.3667,-71.3023,Weston,MA,Technology/HR Software,Unknown,Unknown,Unknown,Unknown,Unknown
+12/18/2021,Shutterfly,37.4770,-122.2040,Redwood City,CA,Technology/Media,Unknown,Unknown,Unknown,Unknown,Unknown
