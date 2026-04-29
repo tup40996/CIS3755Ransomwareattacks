@@ -1,0 +1,105 @@
+Date (MM/DD/YYYY),Entity Name,Latitude,Longitude,City,State,Sector,Demand,Currency,Demand in USD,Paid,Amount Paid
+01/04/2022,South Denver Cardiology Associates,39.6133,-104.9883,Littleton,CO,Healthcare,Unknown,Unknown,Unknown,False,null
+01/05/2022,Bernalillo County Government,35.0844,-106.6504,Albuquerque,NM,Government,Unknown,Unknown,Unknown,False,null
+01/10/2022,Lutheran Social Services of Illinois,41.8827,-87.6233,Chicago,IL,Social Services/Healthcare,Unknown,Unknown,Unknown,False,null
+01/10/2022,Florida International University,25.7572,-80.3733,Miami,FL,Education,Unknown,Unknown,Unknown,False,null
+01/12/2022,Albuquerque Public Schools,35.0844,-106.6504,Albuquerque,NM,Education,Unknown,Unknown,Unknown,False,null
+01/14/2022,New Mexico State University,32.2840,-106.7428,Las Cruces,NM,Education,Unknown,Unknown,Unknown,False,null
+01/20/2022,Broward Health,26.1224,-80.1373,Fort Lauderdale,FL,Healthcare,Unknown,Unknown,Unknown,False,null
+01/20/2022,Morley Companies Inc.,43.5978,-83.8891,Saginaw,MI,Business Services,Unknown,Unknown,Unknown,False,null
+01/20/2022,Phillips Community College,34.4715,-91.0579,Helena,AR,Education,Unknown,Unknown,Unknown,False,null
+01/22/2022,Hennepin Healthcare,44.9754,-93.2631,Minneapolis,MN,Healthcare,Unknown,Unknown,Unknown,False,null
+01/25/2022,Neenah Joint School District,44.1858,-88.4626,Neenah,WI,Education,Unknown,Unknown,Unknown,False,null
+01/31/2022,San Francisco 49ers,37.7134,-122.3860,Santa Clara,CA,Sports/Entertainment,Unknown,Unknown,Unknown,Unknown,Unknown
+02/01/2022,Fitzgibbon Hospital,39.4200,-93.3855,Marshall,MO,Healthcare,Unknown,Unknown,Unknown,False,null
+02/02/2022,Professional Finance Company (PFC),40.4233,-104.7091,Greeley,CO,Financial Services/Collections,Unknown,Unknown,Unknown,False,null
+02/03/2022,Kojima Industries (Toyota supplier),35.6762,-105.9669,Santa Fe,NM,Manufacturing/Automotive,Unknown,Unknown,Unknown,False,null
+02/16/2022,Memorial Hospital of Carbon County,41.7919,-107.2386,Rawlins,WY,Healthcare,Unknown,Unknown,Unknown,False,null
+02/17/2022,University of Detroit Mercy,42.4254,-83.0016,Detroit,MI,Education,Unknown,Unknown,Unknown,False,null
+02/23/2022,Denso Corporation (US Operations),42.3223,-85.2001,Battle Creek,MI,Manufacturing/Automotive,Unknown,Unknown,Unknown,False,null
+02/25/2022,Nvidia Corporation,37.3688,-121.9653,Santa Clara,CA,Technology/Semiconductors,Unknown,Unknown,Unknown,False,null
+02/26/2022,Samsung Electronics (US Operations),37.5630,-121.9760,San Jose,CA,Technology/Consumer Electronics,Unknown,Unknown,Unknown,False,null
+02/26/2022,Mercyhurst University,42.0953,-80.1528,Erie,PA,Education,Unknown,Unknown,Unknown,False,null
+03/01/2022,Bridgestone Americas,36.1627,-86.7816,Nashville,TN,Manufacturing/Automotive,Unknown,Unknown,Unknown,False,null
+03/01/2022,Plainfield Township,39.7044,-86.3997,Plainfield,IN,Government,"$199,000",Unknown,"$199,000",False,null
+03/13/2022,East Tennessee Children's Hospital,35.9606,-83.9207,Knoxville,TN,Healthcare,Unknown,Unknown,Unknown,False,null
+03/14/2022,Parker Hannifin Corporation,41.4993,-81.6944,Cleveland,OH,Manufacturing/Aerospace,Unknown,Unknown,Unknown,False,null
+03/15/2022,Massapequa School District,40.6815,-73.4693,Massapequa,NY,Education,Unknown,Unknown,Unknown,False,null
+03/17/2022,Partnership HealthPlan of California,40.5897,-122.3917,Redding,CA,Healthcare,Unknown,Unknown,Unknown,False,null
+03/20/2022,Onondaga County Government,43.0481,-76.1474,Syracuse,NY,Government,Unknown,Unknown,Unknown,False,null
+03/20/2022,Washington Local Schools,41.6964,-83.6291,Toledo,OH,Education,Unknown,Unknown,Unknown,False,null
+03/23/2022,Snap-on Tools,42.5834,-87.8212,Kenosha,WI,Manufacturing/Tools,Unknown,Unknown,Unknown,False,null
+03/25/2022,TransUnion (US Operations),41.8827,-87.6233,Chicago,IL,Financial Services/Credit,Unknown,Unknown,Unknown,Unknown,Unknown
+04/01/2022,Spring Independent School District,30.0799,-95.4172,Houston,TX,Education,Unknown,Unknown,Unknown,False,null
+04/02/2022,American Dental Association,41.8827,-87.6233,Chicago,IL,Healthcare/Professional Org,Unknown,Unknown,Unknown,False,null
+04/04/2022,HP Hood Dairy,42.4787,-71.0048,Lynnfield,MA,Food/Agriculture,Unknown,Unknown,Unknown,False,null
+04/06/2022,Napa Valley College,38.2975,-122.2869,Napa,CA,Education,Unknown,Unknown,Unknown,False,null
+04/11/2022,Taylor Regional Hospital,32.7454,-83.7296,Hawkinsville,GA,Healthcare,Unknown,Unknown,Unknown,False,null
+04/14/2022,SpringHill Medical Center,30.6954,-88.0399,Mobile,AL,Healthcare,Unknown,Unknown,Unknown,Unknown,Unknown
+04/15/2022,Fort Sumner Municipal Schools,34.4709,-104.2460,Fort Sumner,NM,Education,Unknown,Unknown,Unknown,False,null
+04/17/2022,Oklahoma City Indian Clinic,35.4676,-97.5164,Oklahoma City,OK,Healthcare,Unknown,Unknown,Unknown,False,null
+04/21/2022,Peoria Unified School District,33.5806,-112.2374,Peoria,AZ,Education,Unknown,Unknown,Unknown,False,null
+04/22/2022,Converse County Government,42.8405,-105.3655,Douglas,WY,Government,Unknown,Unknown,Unknown,False,null
+04/22/2022,Mooresville Schools,39.6131,-86.3716,Mooresville,IN,Education,Unknown,Unknown,Unknown,False,null
+04/25/2022,Greenville County Schools,34.8526,-82.3940,Greenville,SC,Education,Unknown,Unknown,Unknown,False,null
+04/27/2022,Maternal & Family Health Services,41.4090,-75.6624,Wilkes-Barre,PA,Healthcare,Unknown,Unknown,Unknown,False,null
+05/01/2022,Somerset County Government,40.5623,-74.6146,Somerville,NJ,Government,Unknown,Unknown,Unknown,False,null
+05/02/2022,Trib Total Media,40.4406,-79.9959,Pittsburgh,PA,Media/Publishing,Unknown,Unknown,Unknown,False,null
+05/06/2022,Glenn County Office of Education,39.5171,-122.3883,Willows,CA,Education,Unknown,Unknown,Unknown,True,"$400,000"
+05/07/2022,City of Quincy,39.9356,-91.4099,Quincy,IL,Government,Unknown,Unknown,Unknown,True,"$500,000"
+05/10/2022,Kellogg Community College,42.3314,-85.2749,Battle Creek,MI,Education,Unknown,Unknown,Unknown,False,null
+05/11/2022,Lincoln College,40.1489,-89.3648,Lincoln,IL,Education,Unknown,Unknown,Unknown,Unknown,Unknown
+05/12/2022,Consulate Health Care,30.3322,-81.6557,Jacksonville,FL,Healthcare/Long-Term Care,Unknown,Unknown,Unknown,False,null
+05/15/2022,New Bedford Police Department,41.6362,-70.9342,New Bedford,MA,Government/Law Enforcement,Unknown,Unknown,Unknown,False,null
+05/18/2022,Cincinnati State Technical & Community College,39.1031,-84.5120,Cincinnati,OH,Education,Unknown,Unknown,Unknown,False,null
+05/21/2022,Spectrum Health (Corewell Health),42.9634,-85.6681,Grand Rapids,MI,Healthcare,Unknown,Unknown,Unknown,False,null
+05/21/2022,Crawford County Government,41.0275,-80.3526,Meadville,PA,Government,Unknown,Unknown,Unknown,False,null
+05/24/2022,Palomar Health,33.1434,-117.0552,Escondido,CA,Healthcare,Unknown,Unknown,Unknown,False,null
+05/26/2022,Texas Department of Transportation,30.2672,-97.7431,Austin,TX,Government/Transportation,Unknown,Unknown,Unknown,False,null
+06/01/2022,Shields Health Care Group,42.2096,-71.0023,Braintree,MA,Healthcare,Unknown,Unknown,Unknown,False,null
+06/06/2022,Yuma Regional Medical Center,32.7254,-114.6244,Yuma,AZ,Healthcare,Unknown,Unknown,Unknown,False,null
+06/15/2022,Macmillan Publishers (US Operations),40.7128,-74.0060,New York,NY,Media/Publishing,Unknown,Unknown,Unknown,False,null
+06/15/2022,NUC University,18.4655,-66.1057,Bayamon,PR,Education,Unknown,Unknown,Unknown,False,null
+06/16/2022,Methodist McKinney Hospital,33.1972,-96.6397,McKinney,TX,Healthcare,Unknown,Unknown,Unknown,False,null
+06/22/2022,Flagstar Bank,42.5803,-83.1521,Troy,MI,Financial Services,Unknown,Unknown,Unknown,False,null
+06/28/2022,Christus Health,32.8574,-97.0572,Irving,TX,Healthcare,Unknown,Unknown,Unknown,False,null
+07/01/2022,College of the Desert,33.7636,-116.3192,Palm Desert,CA,Education,Unknown,Unknown,Unknown,False,null
+07/06/2022,Entrust Corporation,44.9778,-93.2650,Minneapolis,MN,Technology/Security,Unknown,Unknown,Unknown,False,null
+07/11/2022,North Carolina A&T State University,36.0726,-79.7920,Greensboro,NC,Education,Unknown,Unknown,Unknown,False,null
+07/15/2022,MultiCare Health System,47.2529,-122.4443,Tacoma,WA,Healthcare,Unknown,Unknown,Unknown,False,null
+07/18/2022,Wheat Ridge City Government,39.7661,-105.0772,Wheat Ridge,CO,Government,"$5,000,000",Unknown,"$5,000,000",False,null
+07/20/2022,Davenport Community School District,41.5236,-90.5776,Davenport,IA,Education,Unknown,Unknown,Unknown,False,null
+07/21/2022,Marion County Government,39.7684,-86.1581,Indianapolis,IN,Government,Unknown,Unknown,Unknown,False,null
+07/26/2022,Enzo Biochem,40.7589,-73.9851,New York,NY,Healthcare/Biotech,Unknown,Unknown,Unknown,False,null
+07/29/2022,Goodman Campbell Brain & Spine,39.9784,-86.1581,Indianapolis,IN,Healthcare,Unknown,Unknown,Unknown,False,null
+08/02/2022,Bryan County Schools,31.9977,-81.4384,Pembroke,GA,Education,Unknown,Unknown,Unknown,False,null
+08/03/2022,Grand Rapids Public Schools,42.9634,-85.6681,Grand Rapids,MI,Education,Unknown,Unknown,Unknown,False,null
+08/08/2022,Solano Community College,38.2518,-122.0258,Fairfield,CA,Education,Unknown,Unknown,Unknown,False,null
+08/11/2022,Cisco Systems,37.3382,-121.8863,San Jose,CA,Technology/Networking,Unknown,Unknown,Unknown,False,null
+08/12/2022,Bluefield University,37.2598,-81.2779,Bluefield,VA,Education,Unknown,Unknown,Unknown,False,null
+08/16/2022,Kearney Public Schools,40.6996,-99.0817,Kearney,NE,Education,Unknown,Unknown,Unknown,False,null
+08/25/2022,Lakeview Hospital System,45.0564,-92.8138,Stillwater,MN,Healthcare,Unknown,Unknown,Unknown,False,null
+09/03/2022,Los Angeles Unified School District,34.0522,-118.2437,Los Angeles,CA,Education,Unknown,Unknown,Unknown,False,null
+09/06/2022,Mars Area School District,40.6964,-80.0108,Mars,PA,Education,Unknown,Unknown,Unknown,False,null
+09/08/2022,Suffolk County Government,40.9176,-72.6718,Riverhead,NY,Government,"$2,500,000",Unknown,"$2,500,000",False,null
+09/14/2022,Tucson Unified School District,32.2226,-110.9747,Tucson,AZ,Education,Unknown,Unknown,Unknown,False,null
+09/16/2022,CommonSpirit Health,41.8827,-87.6233,Chicago,IL,Healthcare,Unknown,Unknown,Unknown,False,null
+09/27/2022,LoanCare,36.8529,-75.9780,Virginia Beach,VA,Financial Services/Mortgage,Unknown,Unknown,Unknown,False,null
+09/29/2022,Lockwood School District,45.7833,-108.4596,Billings,MT,Education,Unknown,Unknown,Unknown,False,null
+10/01/2022,Johnson Controls International,43.0389,-87.9065,Milwaukee,WI,Manufacturing/Building Tech,Unknown,Unknown,Unknown,Unknown,Unknown
+10/06/2022,OakBend Medical Center,29.5580,-95.7613,Richmond,TX,Healthcare,Unknown,Unknown,Unknown,False,null
+10/10/2022,SuperCare Health,33.8369,-118.0413,Downey,CA,Healthcare,Unknown,Unknown,Unknown,False,null
+10/11/2022,Town of Islip,40.7282,-73.2107,Islip,NY,Government,Unknown,Unknown,Unknown,False,null
+10/18/2022,Ada School District,42.9634,-85.4989,Ada,MI,Education,Unknown,Unknown,Unknown,False,null
+10/20/2022,Tift Regional Health System,31.4488,-83.5224,Tifton,GA,Healthcare,Unknown,Unknown,Unknown,False,null
+10/25/2022,Munster Town Government,41.5653,-87.5120,Munster,IN,Government,Unknown,Unknown,Unknown,False,null
+11/02/2022,Rackspace Technology,29.4241,-98.4936,San Antonio,TX,Technology/Cloud Services,Unknown,Unknown,Unknown,Unknown,Unknown
+11/11/2022,Mount St. Mary's College,41.5100,-74.0176,Newburgh,NY,Education,Unknown,Unknown,Unknown,False,null
+11/17/2022,Shasta Regional Medical Center,40.5865,-122.3917,Redding,CA,Healthcare,Unknown,Unknown,Unknown,False,null
+11/17/2022,Los Angeles Housing Authority (HACLA),34.0522,-118.2437,Los Angeles,CA,Government/Housing,Unknown,Unknown,Unknown,False,null
+12/01/2022,Injury Care Medical Center,43.6150,-116.2023,Boise,ID,Healthcare,Unknown,Unknown,Unknown,False,null
+12/01/2022,California Department of Finance,38.5816,-121.4944,Sacramento,CA,Government/Finance,Unknown,Unknown,Unknown,False,null
+12/12/2022,Knox College,40.9476,-90.3706,Galesburg,IL,Education,Unknown,Unknown,Unknown,False,null
+12/20/2022,New York City Bar Association,40.7589,-73.9851,New York,NY,Legal Services,Unknown,Unknown,Unknown,False,null
+12/29/2022,Empress EMS,40.9176,-73.8988,Yonkers,NY,Healthcare/Emergency Services,Unknown,Unknown,Unknown,False,null
+12/30/2022,Bristol Community College,41.9423,-71.3301,Attleboro,MA,Education,Unknown,Unknown,Unknown,False,null
