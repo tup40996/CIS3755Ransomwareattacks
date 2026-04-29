@@ -1,0 +1,64 @@
+Date (MM/DD/YYYY),Entity Name,Latitude,Longitude,City,State,Sector,Demand,Currency,Demand in USD,Paid,Amount Paid
+01/02/2025,Community Health Center (CT),41.5623,-72.6509,Middletown,CT,Healthcare,Unknown,Unknown,Unknown,False,null
+01/13/2025,Conduent Business Services,40.7958,-74.3812,Florham Park,NJ,Technology/Business Services,Unknown,Unknown,Unknown,True,Unknown
+01/13/2025,Mundelein Park & Recreation District,42.2645,-88.0062,Mundelein,IL,Government/Recreation,"$400,000",Unknown,"$400,000",Unknown,Unknown
+01/21/2025,SimonMed Imaging,33.4942,-111.9261,Scottsdale,AZ,Healthcare/Medical Imaging,"$1,000,000",Unknown,"$1,000,000",True,Unknown
+01/22/2025,Anthony Hospital,39.1200,-88.5434,Effingham,IL,Healthcare,Unknown,Unknown,Unknown,False,null
+01/26/2025,New York Blood Center Enterprises,40.7128,-74.0060,New York,NY,Healthcare/Blood Services,Unknown,Unknown,Unknown,False,null
+01/27/2025,Frederick Health,39.4143,-77.4105,Frederick,MD,Healthcare,Unknown,Unknown,Unknown,False,null
+01/27/2025,Sunflower Medical Group,38.9717,-95.2353,Olathe,KS,Healthcare,10 BTC,Bitcoin,"$970,000",False,null
+01/28/2025,Sault Tribe of Chippewa Indians,46.4953,-84.3453,Sault Ste. Marie,MI,Government/Tribal,"$5,000,000",Unknown,"$5,000,000",Unknown,Unknown
+01/28/2025,PowerSchool (secondary extortion),37.4419,-122.1430,Sunnyvale,CA,Technology/Education Software,Unknown,Unknown,Unknown,True,"$2,850,000"
+02/02/2025,Bell Ambulance,43.0389,-87.9065,Milwaukee,WI,Healthcare/Emergency Services,Unknown,Unknown,Unknown,False,null
+02/04/2025,NASCAR,28.3772,-80.7075,Daytona Beach,FL,Sports/Entertainment,"$4,000,000",Unknown,"$4,000,000",False,null
+02/10/2025,Highlands Oncology Group PA,36.3729,-94.2088,Springdale,AR,Healthcare,"$700,000",Unknown,"$700,000",False,null
+02/10/2025,WK Kellogg Co (via Cleo exploit),42.3314,-85.5636,Battle Creek,MI,Food & Beverage/Manufacturing,Unknown,Unknown,Unknown,False,null
+02/13/2025,Maryland Transit Administration,39.2904,-76.6122,Baltimore,MD,Government/Transportation,30 BTC,Bitcoin,"$3,400,000",False,null
+02/14/2025,Anne Arundel Dermatology,39.0840,-76.4341,Linthicum,MD,Healthcare/Dermatology,Unknown,Unknown,Unknown,Unknown,Unknown
+02/15/2025,Hoboken City Government,40.7440,-74.0324,Hoboken,NJ,Government,Unknown,Unknown,Unknown,False,null
+02/19/2025,Comcast Corporation (Medusa claim),39.9526,-75.1652,Philadelphia,PA,Telecommunications/Media,"$1,200,000",Unknown,"$1,200,000",Unknown,Unknown
+02/22/2025,Hyundai AutoEver America,33.7183,-117.9794,Fountain Valley,CA,Technology/Automotive IT,Unknown,Unknown,Unknown,False,null
+02/28/2025,West Hills Medical Center,34.2025,-118.6361,West Hills,CA,Healthcare,Unknown,Unknown,Unknown,False,null
+02/28/2025,North Providence City Government,41.8501,-71.4637,North Providence,RI,Government,"$100,000",Unknown,"$100,000",Unknown,Unknown
+03/08/2025,Yale New Haven Health System,41.3083,-72.9279,New Haven,CT,Healthcare/Education,Unknown,Unknown,Unknown,False,null
+03/12/2025,Mid Michigan Medical Billing Service,43.5978,-83.8891,Saginaw,MI,Healthcare/Medical Billing,Unknown,Unknown,Unknown,False,null
+03/18/2025,Henry County Government (IL),41.3609,-90.0040,Cambridge,IL,Government,"$500,000",Unknown,"$500,000",Unknown,Unknown
+03/24/2025,DaVita Inc.,39.7392,-104.9903,Denver,CO,Healthcare/Dialysis,Unknown,Unknown,Unknown,Unknown,Unknown
+03/27/2025,Penn-Harris-Madison Schools,41.6820,-86.1180,Mishawaka,IN,Education,Unknown,Unknown,Unknown,False,null
+04/04/2025,Missouri Department of Conservation,38.5767,-92.1735,Jefferson City,MO,Government,Unknown,Unknown,Unknown,False,null
+04/08/2025,NAHGA Claims Servicers,36.1627,-86.7816,Nashville,TN,Financial Services/Insurance,Unknown,Unknown,Unknown,False,null
+04/14/2025,Cookeville Regional Medical Center,36.1628,-85.5016,Cookeville,TN,Healthcare,"$1,150,000",Unknown,"$1,150,000",False,null
+04/16/2025,Family Health West,39.0756,-108.5506,Fruita,CO,Healthcare,"$700,000",Unknown,"$700,000",False,null
+04/22/2025,City of Hope Cancer Center,34.1339,-117.9821,Duarte,CA,Healthcare/Cancer Treatment,Unknown,Unknown,Unknown,False,null
+04/28/2025,Iowa County Government,42.8375,-91.9807,Marengo,IA,Government,Unknown,Unknown,Unknown,False,null
+05/08/2025,Covenant Health (TN),35.9606,-83.9207,Knoxville,TN,Healthcare,Unknown,Unknown,Unknown,False,null
+05/12/2025,Washington State Admin Office of Courts,47.0379,-122.9007,Olympia,WA,Government/Legal,Unknown,Unknown,Unknown,False,null
+05/15/2025,DuPage County Government,41.8120,-88.1070,Wheaton,IL,Government,Unknown,Unknown,Unknown,False,null
+05/20/2025,Kettering Health,39.7648,-84.2108,Dayton,OH,Healthcare,Unknown,Unknown,Unknown,False,null
+05/22/2025,Surmodics Inc.,44.9778,-93.2650,Eden Prairie,MN,Healthcare/Medical Devices,Unknown,Unknown,Unknown,False,null
+05/28/2025,Ingram Micro,33.6846,-117.8265,Irvine,CA,Technology/IT Distribution,Unknown,Unknown,Unknown,Unknown,Unknown
+06/01/2025,Central Maine Healthcare,44.0951,-70.2187,Lewiston,ME,Healthcare,Unknown,Unknown,Unknown,False,null
+06/03/2025,Oregon Anesthesiology Group,45.5051,-122.6750,Portland,OR,Healthcare,Unknown,Unknown,Unknown,False,null
+06/04/2025,St. Joseph's College of Maine,43.7248,-70.4117,Standish,ME,Education,Unknown,Unknown,Unknown,False,null
+06/10/2025,Providence Public Schools,41.8240,-71.4128,Providence,RI,Education,Unknown,Unknown,Unknown,False,null
+06/12/2025,Aflac (US Operations),32.4609,-84.9877,Columbus,GA,Financial Services/Insurance,Unknown,Unknown,Unknown,Unknown,Unknown
+06/15/2025,Avosina Healthcare Solutions,40.7128,-74.0060,New York,NY,Healthcare/Medical Billing,Unknown,Unknown,Unknown,False,null
+06/15/2025,Marysville Exempted Village Schools,40.2363,-83.3675,Marysville,OH,Education,Unknown,Unknown,Unknown,False,null
+06/30/2025,Hawaiian Airlines,21.3069,-157.8583,Honolulu,HI,Transportation/Aviation,Unknown,Unknown,Unknown,False,null
+07/10/2025,GlobalLogic (via Oracle EBS / Clop),37.3382,-121.8863,San Jose,CA,Technology/Digital Engineering,Unknown,Unknown,Unknown,False,null
+07/10/2025,LKQ Corporation (via Oracle EBS / Clop),41.8827,-87.6233,Chicago,IL,Automotive/Distribution,Unknown,Unknown,Unknown,Unknown,Unknown
+07/10/2025,Accu Reference Medical Laboratory,40.6220,-74.2146,Linden,NJ,Healthcare/Laboratory,Unknown,Unknown,Unknown,False,null
+07/21/2025,Manpower Group,43.0389,-87.9065,Milwaukee,WI,Professional Services/Staffing,Unknown,Unknown,Unknown,False,null
+08/05/2025,Nevada State Government Systems,39.1638,-119.7674,Carson City,NV,Government,Unknown,Unknown,Unknown,False,null
+08/08/2025,Allianz Life Insurance (US),44.9778,-93.2650,Minneapolis,MN,Financial Services/Insurance,Unknown,Unknown,Unknown,Unknown,Unknown
+08/20/2025,Washington Post (via Oracle EBS / Clop),38.9072,-77.0369,Washington,DC,Media/Publishing,Unknown,Unknown,Unknown,Unknown,Unknown
+08/26/2025,Delta County Memorial Hospital,38.7583,-108.0727,Delta,CO,Healthcare,Unknown,Unknown,Unknown,False,null
+09/06/2025,Spindletop Center,30.0799,-94.1313,Beaumont,TX,Healthcare/Behavioral Health,15 BTC,Bitcoin,"$1,650,000",False,null
+09/11/2025,Cache Valley ENT,41.7370,-111.8338,Logan,UT,Healthcare,"$150,000",Unknown,"$150,000",False,null
+09/15/2025,Central Texas Pediatric Orthopedics,30.5082,-97.6789,Round Rock,TX,Healthcare,Unknown,Unknown,Unknown,False,null
+09/15/2025,Trumbull County Government,41.2342,-80.8184,Warren,OH,Government,Unknown,Unknown,Unknown,False,null
+10/01/2025,Valley View Independent School District,26.9243,-99.1301,Pharr,TX,Education,Unknown,Unknown,Unknown,False,null
+10/15/2025,Kelly Legal Group,32.7767,-96.7970,Dallas,TX,Legal Services,Unknown,Unknown,Unknown,Unknown,Unknown
+10/19/2025,Richmond Behavioral Health Authority,37.5407,-77.4360,Richmond,VA,Healthcare/Behavioral Health,Unknown,Unknown,Unknown,False,null
+11/01/2025,Kaufman County Government,32.5893,-96.3086,Kaufman,TX,Government,Unknown,Unknown,Unknown,False,null
+12/19/2025,Evergreen Printing Co.,39.8762,-75.0596,Bellmawr,NJ,Manufacturing/Printing,Unknown,Unknown,Unknown,Unknown,Unknown
