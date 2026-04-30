@@ -200,4 +200,4 @@ window.addEventListener("resize", () => {
   path = d3.geoPath(projection);
   if (topoFeatures) render();
 });
-</script>
+
