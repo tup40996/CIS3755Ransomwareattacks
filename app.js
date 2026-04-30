@@ -85,7 +85,7 @@ function init() {
   const topoPromise = d3.json("./states-10m.json");
 
   Promise.all([topoPromise, ...csvPromises]).then(([topology, ...yearArrays]) => {
-    window.BREACH_DATA = yearArrays.flat();
+    BREACH_DATA = yearArrays.flat();
     topoFeatures = topojson.feature(topology, topology.objects.states).features;
     gStates = svg.append("g");
     gDots = svg.append("g");
