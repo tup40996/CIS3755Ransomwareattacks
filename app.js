@@ -76,10 +76,17 @@ function init() {
   projection = d3.geoAlbersUsa().scale(Math.min(width, height) * 1.18).translate([width/2, height/2]);
   path = d3.geoPath(projection);
 
-  const years = [2020, 2021, 2022, 2023, 2024, 2025];
-  const csvPromises = years.map(y =>
-    d3.csv(`ransomware_${y}_usa.csv`).then(rows => rows.map(r => parseRow(r, y)))
-  );
+  const files = [
+  { file: 'rw2020.csv', year: 2020 },
+  { file: 'rw21.csv',   year: 2021 },
+  { file: 'rw22.csv',   year: 2022 },
+  { file: 'rw23.csv',   year: 2023 },
+  { file: 'rw24.csv',   year: 2024 },
+  { file: 'rw25.csv',   year: 2025 },
+];
+const csvPromises = files.map(({ file, year }) =>
+  d3.csv(file).then(rows => rows.map(r => parseRow(r, year)))
+);
 
   const topoPromise = d3.json("./states-10m.json");
 
