@@ -162,12 +162,8 @@ function showTooltip(event, html) {
 function hideTooltip() { tooltip.style.display = 'none'; }
 
 function showPanel(abbrev, records) {
+ 
   document.getElementById("side-panel").classList.remove("hidden");
-  const rect = document.getElementById("map-panel").getBoundingClientRect();
-  width = rect.width; height = rect.height;
-  svg.attr("viewBox", `0 0 ${width} ${height}`);
-  projection.scale(Math.min(width, height) * 1.18).translate([width/2, height/2]);
-  path = d3.geoPath(projection);
   document.getElementById("panel-state-name").textContent = STATE_NAMES[abbrev] || abbrev;
   document.getElementById("panel-subtitle").textContent = `${selectedYear === 'all' ? 'All Years' : selectedYear} · ${selectedSector === 'all' ? 'All Sectors' : selectedSector}`;
   document.getElementById("ps-count").textContent = records.length;
@@ -198,14 +194,7 @@ function showPanel(abbrev, records) {
 document.getElementById("close-panel").addEventListener("click", () => {
   document.getElementById("side-panel").classList.add("hidden");
   selectedState = null;
-  setTimeout(() => {
-    const rect = document.getElementById("map-panel").getBoundingClientRect();
-    width = rect.width; height = rect.height;
-    svg.attr("viewBox", `0 0 ${width} ${height}`);
-    projection.scale(Math.min(width, height) * 1.18).translate([width/2, height/2]);
-    path = d3.geoPath(projection);
-    render();
-  }, 320);
+ 
 });
 document.getElementById("year-select").addEventListener("change", e => { selectedYear = e.target.value; render(); });
 document.getElementById("sector-select").addEventListener("change", e => { selectedSector = e.target.value; render(); });
