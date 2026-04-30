@@ -63,7 +63,7 @@ function parseRow(row, year) {
     city:        row['City'],
     state:       row['State'],
     sector:      normalizeSector(row['Sector']),
-    demand:      row['Demand in USD'],
+    demand:      parseFloat((row['Demand in USD'] || '').replace(/[$,]/g, '')) || 0,
     ransom_paid: row['Paid'],
     year:        String(year),
   };
