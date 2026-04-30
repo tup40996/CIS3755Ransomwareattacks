@@ -1,24 +1,107 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <title>Geographic Distribution of Data Breaches</title>
-</style>
-  </head>
-  <body>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>US Ransomware Attacks Dashboard</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
+</head>
+<body>
 
-    
-    <svg id="geomap" width="975" height="610"></svg>
-    <script src="https://d3js.org/d3.v7.min.js"></script>
-    <script src="https://unpkg.com/topojson@3"></script>
-    <script src="geomaps.js"></script>
-  
-    <!---
-    <svg id="geomap" width="975" height="610"></svg>
-    <script src="https://d3js.org/d3.v7.min.js"></script>
-    <script src="https://unpkg.com/topojson@3"></script>
-    <script src="Choropleth.js"></script> -->
-  
+<header>
+  <div class="header-title">
+    <h1>⚠ US RANSOMWARE ATTACK TRACKER</h1>
+    <p>Geographic distribution of major ransomware incidents, 2020–2025</p>
+  </div>
+  <div class="controls">
+    <div class="control-group">
+      <label for="year-select">Year</label>
+      <select id="year-select" title="Select year">
+        <option value="all">All Years</option>
+        <option value="2020">2020</option>
+        <option value="2021">2021</option>
+        <option value="2022">2022</option>
+        <option value="2023">2023</option>
+        <option value="2024">2024</option>
+        <option value="2025">2025</option>
+      </select>
+    </div>
+    <div class="control-group">
+      <label>Sector</label>
+      <select id="sector-select">
+        <option value="all">All Sectors</option>
+        <option value="Healthcare">Healthcare</option>
+        <option value="Education">Education</option>
+        <option value="Government">Government</option>
+        <option value="Technology">Technology</option>
+        <option value="Financial">Financial</option>
+        <option value="Manufacturing">Manufacturing</option>
+        <option value="Other">Other</option>
+      </select>
+    </div>
+  </div>
+  <div class="stat-pills">
+    <div class="pill"><span class="pill-val" id="stat-total">—</span> <span>attacks</span></div>
+    <div class="pill"><span class="pill-val orange" id="stat-states">—</span> <span>states</span></div>
+    <div class="pill"><span class="pill-val green" id="stat-paid">—</span> <span>paid ransom</span></div>
+  </div>
+</header>
 
-  </body>
+<main>
+  <div id="map-panel">
+    <svg id="geomap"></svg>
+    <div class="info-hint">Click a state for details &nbsp;·&nbsp; <span>hover dots for breach info</span></div>
+    <div id="legend">
+      <h4>Breach Count</h4>
+      <div class="legend-gradient"></div>
+      <div class="legend-labels"><span>0</span><span id="legend-max">—</span></div>
+      <div class="legend-dots">
+        <div class="legend-dot-row"><div class="ldot" style="background:#e63946"></div> Healthcare</div>
+        <div class="legend-dot-row"><div class="ldot" style="background:#f4a261"></div> Education</div>
+        <div class="legend-dot-row"><div class="ldot" style="background:#2dd4a0"></div> Government</div>
+        <div class="legend-dot-row"><div class="ldot" style="background:#a78bfa"></div> Technology</div>
+        <div class="legend-dot-row"><div class="ldot" style="background:#60a5fa"></div> Financial</div>
+        <div class="legend-dot-row"><div class="ldot" style="background:#fbbf24"></div> Other</div>
+      </div>
+    </div>
+    <div id="tooltip"></div>
+  </div>
+
+  <div id="side-panel" class="hidden">
+    <div class="panel-header">
+      <div>
+        <h2 id="panel-state-name">—</h2>
+        <div class="panel-header state-name" id="panel-subtitle">Select a state</div>
+      </div>
+      <button id="close-panel">✕</button>
+    </div>
+    <div class="panel-stats">
+      <div class="pstat">
+        <div class="pstat-label">Attacks</div>
+        <div class="pstat-val" id="ps-count">—</div>
+      </div>
+      <div class="pstat">
+        <div class="pstat-label">Paid Ransom</div>
+        <div class="pstat-val blue" id="ps-paid">—</div>
+      </div>
+    </div>
+    <div id="sector-chart-wrap">
+      <h3>By Sector</h3>
+      <div id="sector-bars"></div>
+    </div>
+    <div id="breach-list-wrap">
+      <h3>Incidents</h3>
+      <div id="breach-list"></div>
+    </div>
+    <div class="footer-note">Source: Ransomwatch / Public Breach Records</div>
+  </div>
+</main>
+
+<!-- Data must load before app logic -->
+<script src="data.js"></script>
+<script src="app.js"></script>
+
+</body>
 </html>
