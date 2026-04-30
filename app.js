@@ -162,7 +162,7 @@ function showTooltip(event, html) {
 function hideTooltip() { tooltip.style.display = 'none'; }
 
 function showPanel(abbrev, records) {
- document.getElementById("side-panel").classList.remove("hidden");
+  document.getElementById("side-panel").classList.remove("hidden");
   const rect = document.getElementById("map-panel").getBoundingClientRect();
   width = rect.width; height = rect.height;
   svg.attr("viewBox", `0 0 ${width} ${height}`);
