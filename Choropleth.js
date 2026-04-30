@@ -5,10 +5,6 @@ Promise.all([
    d3.csv("./states.csv")
 ]).then(([topology, cities, states]) => {
 
-    console.log("TopoJSON:", topology);
-    console.log("Cities CSV:", cities);
-    console.log("States CSV:", states);
-
     // convert topojson
     const topo = topojson.feature(topology, topology.objects.states);
 
